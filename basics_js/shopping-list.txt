@@ -1,0 +1,3 @@
+
+const myList = [["mango",5],["banana",6],["guava",7],["apple",5],
+["papaya",8]];
